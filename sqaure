@@ -26,11 +26,11 @@ def sqrt():
         x=0.5*(x+a/x)
     return x
 print("Square root of the number:",sqrt())
-
+     
 ```
 
 ## Output:
-![output](./square.png)
+![gcd of two number](./square.png)
 
 
 ## Result:
